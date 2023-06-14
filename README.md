@@ -17,7 +17,7 @@ To install and run the School Information System, follow these steps:
 1. Clone or download the project repository to your local machine.
 2. Download [Microsoft Access Database Engine 2010](https://www.microsoft.com/en-us/download/details.aspx?id=13255) based on your system architecture (32-bit or 64-bit).
 3. Install Microsoft Access Database Engine 2010 by following the provided instructions.
-4. Open the solution file (`SchoolInformationSystem.sln`) in Visual Studio.
+4. Open the solution file (`WindowsApp2.sln`) in Visual Studio.
 5. In the `DB.vb` class file, locate the connection string declaration.
 6. Replace `connString` with the actual path and file name of your Microsoft Access database file.
 7. Build the solution to compile the application.
